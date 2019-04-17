@@ -8,7 +8,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <StatusBar backgroundColor="#1c313a" barStyle="light-content" />
-        <Form />
+        <Login />
       </View>
     );
   }
